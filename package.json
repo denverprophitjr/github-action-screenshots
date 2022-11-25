@@ -36,7 +36,7 @@
     "@semantic-release/github": "^8.0.4",
     "@semantic-release/npm": "^7.0.10",
     "@semantic-release/release-notes-generator": "^10.0.3",
-    "@vercel/ncc": "~>0.33.4",
+    "@vercel/ncc": "~>0.34.0",
     "babel-eslint": "^10.1.0",
     "cz-conventional-changelog": "^3.3.0",
     "editorconfig-checker": "4.0.2",
