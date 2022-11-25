@@ -1272,15 +1272,6 @@
             "argparse": "^2.0.1"
           }
         },
-        "minimatch": {
-          "version": "3.1.2",
-          "resolved": "https://registry.npmjs.org/minimatch/-/minimatch-3.1.2.tgz",
-          "integrity": "sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw==",
-          "dev": true,
-          "requires": {
-            "brace-expansion": "^1.1.7"
-          }
-        },
         "ms": {
           "version": "2.1.2",
           "resolved": "https://registry.npmjs.org/ms/-/ms-2.1.2.tgz",
@@ -5833,15 +5824,6 @@
             "argparse": "^2.0.1"
           }
         },
-        "minimatch": {
-          "version": "3.1.2",
-          "resolved": "https://registry.npmjs.org/minimatch/-/minimatch-3.1.2.tgz",
-          "integrity": "sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw==",
-          "dev": true,
-          "requires": {
-            "brace-expansion": "^1.1.7"
-          }
-        },
         "ms": {
           "version": "2.1.2",
           "resolved": "https://registry.npmjs.org/ms/-/ms-2.1.2.tgz",
@@ -6054,15 +6036,6 @@
           "dev": true,
           "requires": {
             "is-extglob": "^2.1.1"
-          }
-        },
-        "minimatch": {
-          "version": "3.1.2",
-          "resolved": "https://registry.npmjs.org/minimatch/-/minimatch-3.1.2.tgz",
-          "integrity": "sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw==",
-          "dev": true,
-          "requires": {
-            "brace-expansion": "^1.1.7"
           }
         },
         "path-parse": {
@@ -12271,9 +12244,9 @@
       "dev": true
     },
     "minimatch": {
-      "version": "3.0.4",
-      "resolved": "https://registry.npmjs.org/minimatch/-/minimatch-3.0.4.tgz",
-      "integrity": "sha512-yJHVQEhyqPLUTgt9B83PXu6W3rx4MvvHvSUvToogpwoGDOUQ+yDrR0HRot+yOCdCO7u4hX3pWft6kWBBcqh0UA==",
+      "version": "3.1.2",
+      "resolved": "https://registry.npmjs.org/minimatch/-/minimatch-3.1.2.tgz",
+      "integrity": "sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw==",
       "requires": {
         "brace-expansion": "^1.1.7"
       }
@@ -12789,8 +12762,7 @@
         },
         "balanced-match": {
           "version": "1.0.0",
-          "bundled": true,
-          "dev": true
+          "bundled": true
         },
         "bcrypt-pbkdf": {
           "version": "1.0.2",
@@ -12836,7 +12808,6 @@
         "brace-expansion": {
           "version": "1.1.11",
           "bundled": true,
-          "dev": true,
           "requires": {
             "balanced-match": "^1.0.0",
             "concat-map": "0.0.1"
@@ -13053,8 +13024,7 @@
         },
         "concat-map": {
           "version": "0.0.1",
-          "bundled": true,
-          "dev": true
+          "bundled": true
         },
         "concat-stream": {
           "version": "1.6.2",
@@ -14455,14 +14425,6 @@
           "dev": true,
           "requires": {
             "mime-db": "~1.35.0"
-          }
-        },
-        "minimatch": {
-          "version": "3.0.4",
-          "bundled": true,
-          "dev": true,
-          "requires": {
-            "brace-expansion": "^1.1.7"
           }
         },
         "minimist": {
