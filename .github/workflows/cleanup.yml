@@ -11,5 +11,5 @@ jobs:
       - name: cleanup
         uses: kolpav/purge-artifacts-action@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ clean.GITHUB_TOKEN }}
           expire-in: 14days # all artifacts at least 14 days old
